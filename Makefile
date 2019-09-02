@@ -1,4 +1,4 @@
-TARGET=my_time.cpp
+TARGET=my_time
 
 SOURCES=$(wildcard *.cpp)
 
